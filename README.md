@@ -1,7 +1,3 @@
-prostomarkeloff, writer, coder, agorist.
-
-I'm an advocate of libertarianism 🇷🇺 and rustacean-ish 🦀
-
-Also I code in Python :snake:
+prostomarkeloff (me)
 
 Feel free to follow [me at Telegram](https://t.me/prostomarkeloff)
