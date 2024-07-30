@@ -1,3 +1,3 @@
-prostomarkeloff; he/him
+prostomarkeloff
 
 python, rust, web-dev, bots, typing
