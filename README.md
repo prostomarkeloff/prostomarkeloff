@@ -1,6 +1,6 @@
 hi, get into python fp-stack easily:
 
-[funcai](https://github.com/prostomarkeloff/funcai)) - type-safe, human-friendly DSL for LLMs
+[funcai](https://github.com/prostomarkeloff/funcai) - type-safe, human-friendly DSL for LLMs
 
 [combinators.py](github.com/prostomarkeloff/combinators.py) - declarative way to build reliable systems
 
