@@ -9,3 +9,5 @@ hi, get into python fp-stack easily:
 [kungfu](https://github.com/timoniq/kungfu) - functional typing in Python made simple
 
 [nodnod](https://github.com/timoniq/nodnod) - programming in Python empowered with Nodes DI, implements efficient nodes computation agents and dependency scoping 
+
+[fastapi-nodnod](https://github.com/prostomarkeloff/fastapi-nodnod) - nodnod support for fastapi
