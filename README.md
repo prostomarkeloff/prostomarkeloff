@@ -4,6 +4,8 @@ hi, get into python fp-stack easily:
 
 [combinators.py](https://github.com/prostomarkeloff/combinators.py) - declarative way to build reliable systems
 
+[teleflow](https://github.com/prostomarkeloff/teleflow) - declarative way to build telegram bots
+
 [emergent](https://github.com/prostomarkeloff/emergent) - Python is all you need.
 
 [kungfu](https://github.com/timoniq/kungfu) - functional typing in Python made simple
