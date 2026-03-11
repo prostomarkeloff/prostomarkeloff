@@ -1,15 +1,1 @@
-hi, get into python fp-stack easily:
 
-[funcai](https://github.com/prostomarkeloff/funcai) - type-safe, human-friendly DSL for LLMs
-
-[combinators.py](https://github.com/prostomarkeloff/combinators.py) - declarative way to build reliable systems
-
-[teleflow](https://github.com/prostomarkeloff/teleflow) - declarative way to build telegram bots
-
-[emergent](https://github.com/prostomarkeloff/emergent) - Python is all you need.
-
-[kungfu](https://github.com/timoniq/kungfu) - functional typing in Python made simple
-
-[nodnod](https://github.com/timoniq/nodnod) - programming in Python empowered with Nodes DI, implements efficient nodes computation agents and dependency scoping 
-
-[fastapi-nodnod](https://github.com/prostomarkeloff/fastapi-nodnod) - nodnod support for fastapi
